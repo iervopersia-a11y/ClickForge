@@ -1,2 +1,2 @@
 # ClickForge
-A new way to create YouTube Thumbnaila
+A new way to create YouTube Thumbnails
